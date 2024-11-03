@@ -1,0 +1,14 @@
+D:\Programming\.NET\Patterns\Command_restauran\Command_restaurant\Command_restaurant\bin\Debug\net8.0\Command_restaurant.exe
+D:\Programming\.NET\Patterns\Command_restauran\Command_restaurant\Command_restaurant\bin\Debug\net8.0\Command_restaurant.deps.json
+D:\Programming\.NET\Patterns\Command_restauran\Command_restaurant\Command_restaurant\bin\Debug\net8.0\Command_restaurant.runtimeconfig.json
+D:\Programming\.NET\Patterns\Command_restauran\Command_restaurant\Command_restaurant\bin\Debug\net8.0\Command_restaurant.dll
+D:\Programming\.NET\Patterns\Command_restauran\Command_restaurant\Command_restaurant\bin\Debug\net8.0\Command_restaurant.pdb
+D:\Programming\.NET\Patterns\Command_restauran\Command_restaurant\Command_restaurant\obj\Debug\net8.0\Command_restaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\.NET\Patterns\Command_restauran\Command_restaurant\Command_restaurant\obj\Debug\net8.0\Command_restaurant.AssemblyInfoInputs.cache
+D:\Programming\.NET\Patterns\Command_restauran\Command_restaurant\Command_restaurant\obj\Debug\net8.0\Command_restaurant.AssemblyInfo.cs
+D:\Programming\.NET\Patterns\Command_restauran\Command_restaurant\Command_restaurant\obj\Debug\net8.0\Command_restaurant.csproj.CoreCompileInputs.cache
+D:\Programming\.NET\Patterns\Command_restauran\Command_restaurant\Command_restaurant\obj\Debug\net8.0\Command_restaurant.dll
+D:\Programming\.NET\Patterns\Command_restauran\Command_restaurant\Command_restaurant\obj\Debug\net8.0\refint\Command_restaurant.dll
+D:\Programming\.NET\Patterns\Command_restauran\Command_restaurant\Command_restaurant\obj\Debug\net8.0\Command_restaurant.pdb
+D:\Programming\.NET\Patterns\Command_restauran\Command_restaurant\Command_restaurant\obj\Debug\net8.0\Command_restaurant.genruntimeconfig.cache
+D:\Programming\.NET\Patterns\Command_restauran\Command_restaurant\Command_restaurant\obj\Debug\net8.0\ref\Command_restaurant.dll

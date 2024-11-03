@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\.NET\\Patterns\\Command_restauran\\Command_restaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE74C872-C639-4A6C-9495-C1212770FE6C}|Command_restaurant\\Command_restaurant.csproj|d:\\programming\\.net\\patterns\\command_restauran\\command_restaurant\\command_restaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE74C872-C639-4A6C-9495-C1212770FE6C}|Command_restaurant\\Command_restaurant.csproj|solutionrelative:command_restaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE74C872-C639-4A6C-9495-C1212770FE6C}|Command_restaurant\\Command_restaurant.csproj|d:\\programming\\.net\\patterns\\command_restauran\\command_restaurant\\command_restaurant\\pattern\\busboy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE74C872-C639-4A6C-9495-C1212770FE6C}|Command_restaurant\\Command_restaurant.csproj|solutionrelative:command_restaurant\\pattern\\busboy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE74C872-C639-4A6C-9495-C1212770FE6C}|Command_restaurant\\Command_restaurant.csproj|d:\\programming\\.net\\patterns\\command_restauran\\command_restaurant\\command_restaurant\\pattern\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE74C872-C639-4A6C-9495-C1212770FE6C}|Command_restaurant\\Command_restaurant.csproj|solutionrelative:command_restaurant\\pattern\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE74C872-C639-4A6C-9495-C1212770FE6C}|Command_restaurant\\Command_restaurant.csproj|d:\\programming\\.net\\patterns\\command_restauran\\command_restaurant\\command_restaurant\\pattern\\commands\\orderdishcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE74C872-C639-4A6C-9495-C1212770FE6C}|Command_restaurant\\Command_restaurant.csproj|solutionrelative:command_restaurant\\pattern\\commands\\orderdishcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE74C872-C639-4A6C-9495-C1212770FE6C}|Command_restaurant\\Command_restaurant.csproj|d:\\programming\\.net\\patterns\\command_restauran\\command_restaurant\\command_restaurant\\pattern\\kitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE74C872-C639-4A6C-9495-C1212770FE6C}|Command_restaurant\\Command_restaurant.csproj|solutionrelative:command_restaurant\\pattern\\kitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE74C872-C639-4A6C-9495-C1212770FE6C}|Command_restaurant\\Command_restaurant.csproj|d:\\programming\\.net\\patterns\\command_restauran\\command_restaurant\\command_restaurant\\pattern\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE74C872-C639-4A6C-9495-C1212770FE6C}|Command_restaurant\\Command_restaurant.csproj|solutionrelative:command_restaurant\\pattern\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE74C872-C639-4A6C-9495-C1212770FE6C}|Command_restaurant\\Command_restaurant.csproj|d:\\programming\\.net\\patterns\\command_restauran\\command_restaurant\\command_restaurant\\pattern\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE74C872-C639-4A6C-9495-C1212770FE6C}|Command_restaurant\\Command_restaurant.csproj|solutionrelative:command_restaurant\\pattern\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE74C872-C639-4A6C-9495-C1212770FE6C}|Command_restaurant\\Command_restaurant.csproj|d:\\programming\\.net\\patterns\\command_restauran\\command_restaurant\\command_restaurant\\command_restaurant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE74C872-C639-4A6C-9495-C1212770FE6C}|Command_restaurant\\Command_restaurant.csproj|solutionrelative:command_restaurant\\command_restaurant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Programming\\.NET\\Patterns\\Command_restauran\\Command_restaurant\\Command_restaurant\\Pattern\\Client.cs",
+              "RelativeDocumentMoniker": "Command_restaurant\\Pattern\\Client.cs",
+              "ToolTip": "D:\\Programming\\.NET\\Patterns\\Command_restauran\\Command_restaurant\\Command_restaurant\\Pattern\\Client.cs",
+              "RelativeToolTip": "Command_restaurant\\Pattern\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:52:41.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusBoy.cs",
+              "DocumentMoniker": "D:\\Programming\\.NET\\Patterns\\Command_restauran\\Command_restaurant\\Command_restaurant\\Pattern\\BusBoy.cs",
+              "RelativeDocumentMoniker": "Command_restaurant\\Pattern\\BusBoy.cs",
+              "ToolTip": "D:\\Programming\\.NET\\Patterns\\Command_restauran\\Command_restaurant\\Command_restaurant\\Pattern\\BusBoy.cs",
+              "RelativeToolTip": "Command_restaurant\\Pattern\\BusBoy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:48:09.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDishCommand.cs",
+              "DocumentMoniker": "D:\\Programming\\.NET\\Patterns\\Command_restauran\\Command_restaurant\\Command_restaurant\\Pattern\\Commands\\OrderDishCommand.cs",
+              "RelativeDocumentMoniker": "Command_restaurant\\Pattern\\Commands\\OrderDishCommand.cs",
+              "ToolTip": "D:\\Programming\\.NET\\Patterns\\Command_restauran\\Command_restaurant\\Command_restaurant\\Pattern\\Commands\\OrderDishCommand.cs",
+              "RelativeToolTip": "Command_restaurant\\Pattern\\Commands\\OrderDishCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:46:20.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Chef.cs",
+              "DocumentMoniker": "D:\\Programming\\.NET\\Patterns\\Command_restauran\\Command_restaurant\\Command_restaurant\\Pattern\\Chef.cs",
+              "RelativeDocumentMoniker": "Command_restaurant\\Pattern\\Chef.cs",
+              "ToolTip": "D:\\Programming\\.NET\\Patterns\\Command_restauran\\Command_restaurant\\Command_restaurant\\Pattern\\Chef.cs",
+              "RelativeToolTip": "Command_restaurant\\Pattern\\Chef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:36:19.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\.NET\\Patterns\\Command_restauran\\Command_restaurant\\Command_restaurant\\Program.cs",
+              "RelativeDocumentMoniker": "Command_restaurant\\Program.cs",
+              "ToolTip": "D:\\Programming\\.NET\\Patterns\\Command_restauran\\Command_restaurant\\Command_restaurant\\Program.cs",
+              "RelativeToolTip": "Command_restaurant\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:20:13.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kitchen.cs",
+              "DocumentMoniker": "D:\\Programming\\.NET\\Patterns\\Command_restauran\\Command_restaurant\\Command_restaurant\\Pattern\\Kitchen.cs",
+              "RelativeDocumentMoniker": "Command_restaurant\\Pattern\\Kitchen.cs",
+              "ToolTip": "D:\\Programming\\.NET\\Patterns\\Command_restauran\\Command_restaurant\\Command_restaurant\\Pattern\\Kitchen.cs",
+              "RelativeToolTip": "Command_restaurant\\Pattern\\Kitchen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:39:43.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\Programming\\.NET\\Patterns\\Command_restauran\\Command_restaurant\\Command_restaurant\\Pattern\\Commands\\ICommand.cs",
+              "RelativeDocumentMoniker": "Command_restaurant\\Pattern\\Commands\\ICommand.cs",
+              "ToolTip": "D:\\Programming\\.NET\\Patterns\\Command_restauran\\Command_restaurant\\Command_restaurant\\Pattern\\Commands\\ICommand.cs",
+              "RelativeToolTip": "Command_restaurant\\Pattern\\Commands\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:34:37.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Command_restaurant.csproj",
+              "DocumentMoniker": "D:\\Programming\\.NET\\Patterns\\Command_restauran\\Command_restaurant\\Command_restaurant\\Command_restaurant.csproj",
+              "RelativeDocumentMoniker": "Command_restaurant\\Command_restaurant.csproj",
+              "ToolTip": "D:\\Programming\\.NET\\Patterns\\Command_restauran\\Command_restaurant\\Command_restaurant\\Command_restaurant.csproj",
+              "RelativeToolTip": "Command_restaurant\\Command_restaurant.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T09:23:54.625Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
